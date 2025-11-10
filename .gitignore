@@ -1,0 +1,7 @@
+echo ".venv/
+__pycache__/
+*.pyc
+.env
+secrets.toml
+.DS_Store
+Thumbs.db" > .gitignore
